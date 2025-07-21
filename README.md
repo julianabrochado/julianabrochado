@@ -1,16 +1,18 @@
-## Hi there 👋
+##  ¡ Hola ! 👋
+Soy Juliana Brochado, analista de datos. Me gusta explorar dstos, crear visualizaciones y encontrar patrones que ayuden a tomar desiciones.
 
-<!--
-**julianabrochado/julianabrochado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Herramientas que uso ⚙️
 
-Here are some ideas to get you started:
+- 🐍 Python  
+- 🍃 MongoDB  
+- 📊 Power BI  
+- 🧮 SQL  
+- 📗 Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Presentación
+Soy una profesional en transición hacia el análisis de datos, con una sólida base en atención al cliente, resolución de incidencias y soporte técnico. Actualmente me estoy formando en Big Data Analytics, integrando habilidades analíticas. 
+✔ Experiencia gestionando plataformas como Salesforce, Jira y HubSpot.
+✔ Alta orientación a resultados y resolución de problemas.
+
+### Como contactarme: 
+- [Linkeding](https://www.linkedin.com/in/julianabrochado/)
