@@ -5,7 +5,7 @@ Soy Juliana Brochado, analista de datos. Me gusta explorar dstos, crear visualiz
 
 - 🐍 Python  
 - 🍃 MongoDB  
-- 📊 Power BI  
+- 📊 Power BI  , Looker Studio
 - 🧮 SQL  
 - 📗 Excel
 
