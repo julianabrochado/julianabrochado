@@ -1,4 +1,4 @@
-##  ¡ Hola ! 👋
+# ¡ Hola ! 👋
 Soy Juliana Brochado, analista de datos. Me gusta explorar dstos, crear visualizaciones y encontrar patrones que ayuden a tomar desiciones.
 
 # Herramientas que uso ⚙️
